@@ -34,6 +34,7 @@ body{
     color: rgb(136, 2, 2);
     background-color: #ffffff;
     
+    
 
 }
 
@@ -45,4 +46,23 @@ body{
     font-size: large;
     padding: 1rem;
     border: none;
+}
+
+#newgamebtn{
+    height: 50px;
+    width: 150px;
+    background-color: #7e4444;
+    color: #F8EDE3;
+    font-size: large;
+    padding: 1rem;
+    border: none;
+}
+
+.msg-container{
+    height: 10vmin;
+
+}
+
+.hide{
+    display: none;
 }
